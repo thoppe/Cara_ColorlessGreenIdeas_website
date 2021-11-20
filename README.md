@@ -1,10 +1,8 @@
 # Cara's template website
 
-Started theme https://github.com/startbootstrap/startbootstrap-freelancer
+Note: Edit only the files in [src](src). Mainly [src/pug/index.pug](src/pug/index.pug) for the main content.
 
-> npm i startbootstrap-freelancer
+On fresh pull, build the website and start a template
 
-git clone https://github.com/startbootstrap/startbootstrap-stylish-portfolio
-cd startbootstrap-stylish-portfolio
-npm install
-npm start
+    npm install
+    npm start
