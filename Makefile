@@ -1,5 +1,7 @@
 start:
 	npm start
+edit:
+	emacs src/pug/index.pug
 install:
 	npm install
 publish:
