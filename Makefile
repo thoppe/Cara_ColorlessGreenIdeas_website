@@ -6,12 +6,14 @@ push:
 	cp CNAME dist
 	git commit -a
 	git push
+
 install:
 	npm install
+
 publish:
+	npm run build
 	cp CNAME dist
-	git push 
-#	git pull#
-#	
-#	#git subtree push --prefix dist origin gh-pages 
-#	git push
+	cd dist && git add --all
+	cd dist && git commit -a -m "Website build: `date`"
+	cd dist && git push origin gh-pages
+	git push
