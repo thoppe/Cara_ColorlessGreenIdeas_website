@@ -4,18 +4,18 @@ NLP on English Conference data
 
 # Question One (149 observations)
 
-|Theme|Count|
-| :---: | :---: |
-|Importance of teacher perception and student-centered activities|100|
-|Motivating students through positive reinforcement, interactive activities, and student-to-student talk|86|
-|Developing oneself as a professional and identifying areas for improvement|82|
-|Classroom management and textbook development|74|
-|Encouraging student participation and avoiding negative classroom behavior|70|
-|Importance of language acquisition and English language learning|66|
-|Understanding metacognitive skills and strategies|56|
-|Using games in the classroom to improve listening, speaking, and writing skills|55|
-|Developing a good relationship with students through humor and understanding|33|
-|Use of technology such as ChatGPT and interactive whiteboards|20|
+|Theme|Count|Fraction|
+| :---: | :---: | :---: |
+|Importance of teacher perception and student-centered activities|100|0.671|
+|Motivating students through positive reinforcement, interactive activities, and student-to-student talk|86|0.577|
+|Developing oneself as a professional and identifying areas for improvement|82|0.550|
+|Classroom management and textbook development|74|0.497|
+|Encouraging student participation and avoiding negative classroom behavior|70|0.470|
+|Importance of language acquisition and English language learning|66|0.443|
+|Understanding metacognitive skills and strategies|56|0.376|
+|Using games in the classroom to improve listening, speaking, and writing skills|55|0.369|
+|Developing a good relationship with students through humor and understanding|33|0.221|
+|Use of technology such as ChatGPT and interactive whiteboards|20|0.134|
 
 ## Teacher-Student Dynamics (100) 👩‍🏫🌟 
 
